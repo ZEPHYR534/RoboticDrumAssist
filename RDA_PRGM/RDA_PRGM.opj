@@ -1,0 +1,123 @@
+(ExpressProject "RDA_PRGM"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [11/20/2019]-[04/01/20]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\cherry_mx.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\rda_prgm.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (TitleBlock2
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock0N
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-L
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ld271
+      (FullPartName "ld271.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\OPTO.OLB")
+      (DeviceIndex "0"))
+    (TFF
+      (FullPartName "TFF.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\DIG_PRIM.OLB")
+      (DeviceIndex "0"))
+    (CHERRY_MX_LED
+      (FullPartName "CHERRY_MX_LED.Normal")
+      (LibraryName
+         "C:\USERS\IRFAN\DOCUMENTS\01 ROCHESTER INSTITUTE OF TECHNOLOGY\03 MULTIDISCIPLINARY SENIOR DESIGN I\ORCAD\CHERRY_MX.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\irfan\documents\01 rochester institute of technology\03 multidisciplinary senior design i\orcad\rda_prgm\rda_prgm.dsn")
+      (Path "Design Resources"
+         "c:\users\irfan\documents\01 rochester institute of technology\03 multidisciplinary senior design i\orcad\rda_prgm\rda_prgm.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\irfan\documents\01 rochester institute of technology\03 multidisciplinary senior design i\orcad\rda_prgm\rda_prgm.dsn"
+         "TOGGLER")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\irfan\documents\01 rochester institute of technology\03 multidisciplinary senior design i\orcad\cherry_mx.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 650"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 -9 1008 37 460")
+        (Scroll "-101 0")
+        (Zoom "79")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\IRFAN\DOCUMENTS\01 ROCHESTER INSTITUTE OF TECHNOLOGY\03 MULTIDISCIPLINARY SENIOR DESIGN I\ORCAD\RDA_PRGM\RDA_PRGM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 104 1125 104 531")
+        (Scroll "-137 -2")
+        (Zoom "59")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\IRFAN\DOCUMENTS\01 ROCHESTER INSTITUTE OF TECHNOLOGY\03 MULTIDISCIPLINARY SENIOR DESIGN I\ORCAD\RDA_PRGM\RDA_PRGM.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE2"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1151 130 557")
+        (Scroll "-103 0")
+        (Zoom "79"))
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1177 156 583")
+        (Scroll "-1 0")
+        (Zoom "100"))
+      (Path
+         "C:\USERS\IRFAN\DOCUMENTS\01 ROCHESTER INSTITUTE OF TECHNOLOGY\03 MULTIDISCIPLINARY SENIOR DESIGN I\ORCAD\RDA_PRGM\RDA_PRGM.DSN")
+      (Schematic "TOGGLER")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\irfan\Documents\01 Rochester Institute of Technology\03 Multidisciplinary Senior Design I\OrCAD")
+  (MPSSessionName "irfan")
+  (Folder "Logs"))
